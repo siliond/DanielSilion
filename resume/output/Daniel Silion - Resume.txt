@@ -1,0 +1,462 @@
+
+Daniel Silion
+SR. MANAGER, SOFTWARE ENGINEERINGSUMMARY
+ScrumMaster, PMP, CUA, MCTS, AWS and Six Sigma Green Belt Professional certified R&D, Sr Product and Development Manager, and Software Architect with extensive experience in the management, analysis, development and implementation of enterprise software solutions. Able to establish and sustain mutuallybeneficial cross-functional relationships with both internal and external project stakeholders.
+ 
+Hands-on Cloud and On-Premise Solution Architect, Full Stack Software Engineer, Digital Transformation, Machine Learning Engineer with over 20 years of experience in architecting, designing and developing mobile, web and desktop solutions.
+Focused on architecting, designing and implementing highly scalable cloud-native SaaS Healthcare solutions with microservice architecture and large scale on-premise projects ranging from Financial to Laboratory management systems.
+ 
+Certifications
+AWS, ScrumMaster, PMP, CUA, MCTS, AWS and Six Sigma Green Belt Professional certified Software Architect, and Product and Development Manager.
+ 
+Technology Summary
+AWS, .Net Framework, .NET Core, ASP.NET Core, Entity Framework Core, SignalR, C#, Xamarin, React JS, Angular, TypeScript, Microservices, Docker, Serverless computing, Continuous Integration/Continuous Delivery (CI/CD), HL7 FHIR, REST API, gRPC, GraphQL, Machine Learning.
+Design Patterns: Repository, Unit of Work, Domain Driven Design (DDD), Command Query Responsibility Segregation/Event Sourcing (CQRS/ES).
+ 
+Product development in regulated environment, medical device industry.
+Compliance standards: ISO 13485:2016, ISO13485:2003, ISO27001:2013, ISO9001:2008, ISO 9001:2015, ISO 14971:2019, ISO 15189, CLIA, CAP, GxP, ICH, HIPAA, GDPR, CFR 21 Part 11, 21 CFR Part 820, NATA, NeHTA, IEC 62304.
+
+
+Contact
+(954) 424-1593
+theDanielSilion@gmail.com
+
+401 Appalachian Way
+McKinney, TX 75071
+
+
+EXPERIENCE
+ Sr. Manager, Software Engineering
+Capital One
+May 2022 - Present (1 year 3 months)
+Manage software development teams within Developer Navigator enterprise solution - standardized and automated SDLC experience that optimizes simplicity, accelerates development and drives quality.
+ 
+DevNav empowers developers to design, setup, develop, test, deploy, maintain and monitor their app with minimum effort so they can maximize their time delivering their customers an awesome experience.
+Creates a managed pipeline for both non-prod and prod to build and deploy assets to AWS with full orchestration of CI/CD leveraging GitHub Enterprise, Standardized branching strategy, Enterprise Jenkins, JPL, Bogiefile, Gears file, Artifactory, Docker, ECS, Fargate, TD file, 7PS, Distributed tracing (New Relic), Application logging (Splunk), Alerting (PagerDuty), Assett Registry.
+ 
+Skills/Tools:
+AWS services: ECS, EC2, S3, RDS, VPC, Route53, ELB, IAM, CloudFront, CloudFormation,
+CloudWatch, Lambda, SQS, SNS, EventBridge
+CI/CD Pipeline, Jenkins, TerraForm, Git
+Monitoring/Logging: New Relic, Prometheus, Pager Duty, Splunk
+JAVA, Python
+SOA, REST API Agile, JIRA
+
+ Manager, Mobile Applications
+Abbott
+May 2021 - Apr 2022 (1 year)
+Manage the Digital Product Engineering organization and lead the ideation and implementation of nextgeneration capabilities, vision and roadmap for Abbott’s Neuromodulation Product Apps, Infrastructure and Services, including Clinician Programmer and Patient Controller for the Neuromodulation devices for trial and permanent implant, remote programming feature, Deep Brain Stimulation (DBS) monopolar review, Spinal Cord Stimulation (SCS) multiple area BurstDR programming.
+ 
+Research, development and innovation for human implantable cognitive software interfacing with the brain and spinal cord via Bluetooth and WiFi connectivity; delivery of Class III software medical device(s) with FDA and worldwide regulatory approval.
+ 
+Skills/Tools: Azure Web App, Web API, Microsoft ASP.NET Signal R, Xamarin iOS SDK, C#,
+NetAnalyzers, SonarQube, Appium, DOORS, JIRA, Visual Studio App Center, iOS
+
+ R&D Manager | Principal Software Architect
+Abbott
+Jan 2017 - May 2021 (4 years 5 months)
+Technical leadership, Software development process expertise, Quality advocate, Business domain expertise, Full project life cycle expertise (Architecture, Design, Development, Testing, Deployment),
+Good communicator and negotiator, Objective decision making, Organizational politics navigator, Software/Infrastructure selection expert, Coach and mentor, Agile and eXtreme Programming expert.
+ 
+Knowledge of developing products in a regulated environment, medical device industry.
+Compliance standards: ISO 13485:2016, ISO13485:2003, ISO27001:2013, ISO9001:2008, ISO 9001:2015, ISO 14971:2019, ISO 15189, CLIA, CAP, GxP, ICH, HIPAA, GDPR, CFR 21 Part 11, 21 CFR Part 820, NATA, NeHTA.
+ 
+Medical Device Connectivity/Systems Interfacing standards and protocols:
+- HL7 FHIR, HL7, JSON, OpenAPI, SOAP, XML, CSV, Excel, custom formats
+- HL7 MLLP, TCP/IP, REST API, gRPC, Web services, SFTP, SMB, ASTM, AWS S3, GraphQL
+ Software Engineering Manager
+Abbott
+May 2012 - Dec 2016 (4 years 8 months)
+eyeNet
+- Web based solution providing systems interoperability.
+ 
+Skills: Software Architecture, ASP.NET Web API, MVC, Identity, N tier architecture, AutoFac IoC
+Container, Generic Repository, Unit of Work, AutoMapper, Semantic Logging Application Block,
+EntityFramework, Electronic Signature and Audit, Crystal Reports integration, Moq, VS Text
+Templating, VS Unit Testing, VS UI Testing, Extended ASP.NET data control attributes
+ 
+Healthcare Informatics
+- Managing the development of the Abbott Healthcare Informatics Solution - software that is built andimplemented as a product (COTS), having a large audience: Clinical Research: Biorepositories, Clinical Trials; Diagnostic Laboratories: Reference Labs. Design/manage product lifecycle, design/manage the development of new functionality.
+ 
+Transitioned the management of the Abbott Healthcare Informatics Solution SDLC to TFS, from previous in-house solution.
+Extended Team Foundation for automations (auto create user story tasks; auto assign tasks, bugs and issues; auto close/reactivate parent work item, etc.), a C# solution that uses the Team Foundation server object model on the application tier.
+ 
+Skills
+Software Design, Project Management, Product Implementation Management, Product Strategy and
+Planning, Coordination of Core Product and Client Project implementations, Software Development Life
+Cycle, TFS, JScript .NET, C#, Team Foundation server object model, SSL, SQL Server Administration, T-SQL, Oracle Administration, PL/SQL
+
+ Software Engineering Manager
+Abbott
+Mar 2010 - Apr 2012 (2 years 2 months)
+Managed the development of the SUNRISE product - software that is built and implemented as a product (COTS), having a large audience: Public Health Laboratories, Centers of Disease Control. Designed/managed product lifecycle, designed/managed the development of new functionality.
+ 
++ Software Engineering Manager
+SUNRISE product (LIMS for the PHL sector), web-based laboratory information management system development in JScript .NET and SQL Server/Oracle RDBMS
+Transitioned the SDLC from waterfall to Agile
+ 
++ Project Manager
+Vermont Department of Health, StarLIMS V10, SQL Server 2005
+CDC - NCEH (National Center for Environmental Health) Support
+CDC - CCID (Coordinating Center for Infectious Diseases) Support
+
+ Software Product Manager / Project Manager
+Abbott
+Dec 2003 - Mar 2010 (6 years 4 months)
+Starlims: Managed the SUNRISE product - software that is built and implemented as a product (COTS), having a large audience: Public Health Laboratories, Centers of Disease Control. Designed/managed product lifecycle, designed/managed product new functionality.
+Managed customer projects.
+ 
++ Software Product Manager
+SUNRISE product (LIMS for the PHL sector), web-based laboratory information management system development in JScript .NET and SQL Server/Oracle RDBMS
+ 
++ Project Manager / Lead Engineer
+Vermont Department of Health, StarLIMS V10, SQL Server 2005
+CDC - NCEH (National Center for Environmental Health) Support
+CDC - CCID (Coordinating Center for Infectious Diseases) Support
+ 
++ Project Lead Engineer
+Cott Beverages, StarLIMS V10, SQL Server
+Iowa UHL, StarLIMS V9, Oracle 10g
+Tennessee PHL, StarLIMS V9, SQL Server
+ 
++ Senior Engineer
+M&G, StarLIMS V10, SQL Server
+ 
++ System Analyst / Software Engineer
+Maine Department of Health and Human Services, StarLIMS V9, Oracle
+California Department of Health Services, StarLIMS V9, SQL Server
+Demo for Saskatchewan, StarLIMS V10, SQL Server
+Burns & Roe Services Corp., StarLIMS V9, Oracle
+EMD, StarLIMS V9, Sybase
+Demo for Ben&Jerry's, SQL Server
+ESRD, StarLIMS V9, Oracle
+Internal project management system - OIMS, StarLIMS V9, SQL Server
+NCID, StarLIMS V9, SQL Server
+ 
+Skills
+Software Design, Project Management, Product Implementation Management, Product Strategy and
+Planning, Coordination of Core Product and Client Project implementations, Software Development Life Cycle, JScript .NET, SSL, SQL Server Administration, T-SQL, Oracle Administration, PL/SQL
+
+ Software Engineer
+Elsaco
+Jun 2002 - Dec 2003 (1 year 7 months)
+Developed multiple Web applications in php and desktop application in Visual Basic with various RDBMS support.
+ 
++ Coordinated and participated in the creation of a billing application for ApaTerm Oradea and R.A.M.
+Buzau, water distribution companies, application implemented in php with Sql Server database support
++ Developed an application for analysis, tracking and diagnosis of a meter park, application implemented in Visual Basic with Microsoft Access database support
++ Developed Several Web applications, implemented in php with MySQL database support: Web application for Internet traffic monitoring, Web application for automatic exchange traffic monitoring
+ 
+Skills
+PHP, Visual Basic, SQL Server Administration, T-SQL, MySQL Administration and Development, Microsoft Access
+
+ Software Engineer
+InfoTip
+Apr 2001 - Jun 2002 (1 year 3 months)
+Developed multiple Delphi applications with various RDBMS support.
+ 
++ Participated in the creation of a tax application for Botosani Mayoralty, application implemented in
+Delphi with Oracle database support
++ Developed an application for administration of a veterinary surgery, application implemented in Delphi with Paradox database support
+ 
+Skills
+Borland Delphi, Oracle Administration, PL/SQL, Paradox Administration and Development
+
+ Software Engineer
+Electrocontact
+Jan 2001 - Mar 2001 (3 months) Developed Visual C++ application.
+ 
++ Developed a presentation catalogue which was presented at Hanover Fair, application implemented in Visual C++
+ 
+Skills
+Visual C++
+
+ Software Engineer / Network Administrator
+Transilvania Consult
+Aug 2000 - Dec 2000 (5 months)
+Network administration and Web site development and maintenance.
+ 
++ Built and maintained Transilvania Consult's Web page
++ Linux and Windows Network Administration
+ 
+Skills
+CGI C++, MySQL Administration and Development, Network Administration, Suse Administration, Windows Administration
+
+
+LICENSES & CERTIFICATIONS
+ AWS Certified Solutions Architect – Associate
+Amazon Web Services (AWS)
+Issued Aug 2022 - Expires Aug 2025
+8P4XJREKQFBE1PG6
+
+ CUA (Certified Usability Analyst)
+HFI (Human Factors International)
+2013-4475
+
+ PMP
+PMI
+Issued May 2010 - Expires May 2016 1336843
+
+ MCTS
+Microsoft
+7717663
+
+ Certified ScrumMaster
+Scrum Alliance
+000200861
+
+ Six Sigma Green Belt Professional
+6sigmastudy.com
+103245
+
+CAPA Initiator/Evaluator
+Abbott
+
+CAPA Investigator
+Abbott
+
+ Microsoft Specialist: Programming in C#
+Microsoft
+F301-9134
+
+
+EDUCATION
+ Universitatea „Alexandru Ioan Cuza” din Ia?i
+Bachelor's degree, Computer Science
+1996 – 2000
+
+ Carnegie Mellon University
+Software Architecture
+2014 - 2014
+Carnegie Mellon University Software Engineering Institute (SEI) Software Architecture courses:
+Principles and Practices, Design and Analysis
+
+ Human Factors International
+Certified Usability Analyst (CUA) training courses
+2012 - 2013
+CUA Track Courses attended:
+- User-Centered Analysis and Conceptual Design
+- The Science and Art of Effective Web and Application Design
+- Practical Usability Testing
+- Putting Research into Practice
+- 
+ AWS Training and Certification
+Architecting on AWS, Computer Science
+Jun 2022 - Jun 2022
+Architecting on AWS
+Instructor led
+ 
+Architecting on AWS is for solutions architects, solution-design engineers, and developers seeking an understanding of AWS architecting. In this course, you will learn to identify services and features to build resilient, secure and highly available IT solutions on the AWS Cloud.
+Architectural solutions differ depending on industry, types of applications, and business size. AWS Authorized Instructors emphasize best practices using the AWS Well-Architected Framework, and guide you through the process of designing optimal IT solutions, based on real-life scenarios. The modules focus on account security, networking, compute, storage, databases, monitoring, automation, containers, serverless architecture, edge services, and backup and recovery. At the end of the course, you will practice building a solution and apply what you have learned with confidence.
+ 
+https://www.aws.training/Details/InstructorLedTraining?id=100298
+
+ Udemy Alumni
+Machine Learning A-Z™: AI, Python & R + ChatGPT, Machine Learning
+May 2023 - Present
+Machine Learning/Data Science Algorithms in Python and R:
+- Data Preprocessing
+- Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR,
+Decision Tree Regression, Random Forest Regression
+- Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree
+Classification, Random Forest Classification
+- Clustering: K-Means, Hierarchical Clustering
+- Association Rule Learning: Apriori, Eclat
+- Reinforcement Learning: Upper Confidence Bound, Thompson Sampling
+- Natural Language Processing: Bag-of-words model and algorithms for NLP
+- Deep Learning: Artificial Neural Networks, Convolutional Neural Networks
+- Dimensionality Reduction: PCA, LDA, Kernel PCA
+- Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost
+
+ Udemy Alumni
+Ultimate AWS Certified Solutions Architect Associate 2022, Computer Science
+Jun 2022 - Aug 2022
+AWS Certified Solutions Architect Associate course - Udemy:
+The AWS Fundamentals: IAM, EC2, Load Balancing, Auto Scaling, EBS, EFS, Route 53, RDS,
+ElastiCache, S3, CloudFront
+The AWS CLI: CLI setup, usage on EC2, best practices, SDK, advanced usage
+In-Depth Database comparison: RDS, Aurora, DynamoDB, Neptune, ElastiCache, Redshift,
+ElasticSearch, Athena
+Monitoring, Troubleshooting & Audit: AWS CloudWatch, CloudTrail
+AWS Integration & Messaging: SQS, SNS, Kinesis
+AWS Serverless: AWS Lambda, DynamoDB, API Gateway, Cognito
+AWS Security best practices: KMS, SSM Parameter Store, IAM Policies
+VPC & Networking in depth
+AWS Other Services Overview: CICD (CodeCommit, CodeBuild, CodePipeline, CodeDeploy),
+CloudFormation, ECS, Step Functions, SWF, EMR, Glue, OpsWorks, ElasticTranscoder, AWS Organizations, Workspaces, AppSync, Single Sign On (SSO)
+
+ Microsoft
+ASP.NET Core MVC, Computer Software Engineering
+2020 - 2020
+Develop advanced ASP.NET Core MVC applications using .NET Core tools and technologies.
+
+ Microsoft
+C#, Computer Programming
+2015 - 2015
+Microsoft Virtual Academy Exam 70-483 - Programming in C# training
+
+ PluralSight
+Modern Software Architecture: Domain Models, CQRS, and Event Sourcing
+2015 – 2015
+
+ Pluralsight
+Picturing Architecture: UML (The Good Bits) and More, UML
+2016 - 2016
+This course shows you how to visualize and communicate architecture using pictures, which is essential in an Agile environment. It takes you through the design process, covering everything from story cards to representing complex activity flows.
+
+ Microsoft
+Identity, ASP.NET
+2015 - 2015
+Microsoft Virtual Academy Customizing ASP.NET Authentication with Identity
+
+ PluralSight
+LINQ, Practical LINQ
+2015 – 2015
+
+ Udacity
+Software Development Life Cycles, Computer Software Engineering
+2014 - 2015
+Life Cycle Models, Integrated Development Environment, Version Control Systems, Requirements
+Engineering, OO Software and UML, Software Architecture, Analysis and Design, Design Patterns,
+Unified Software Process, General Concepts, Black-Box Testing, White-Box Testing, Agile
+Development Methods, Software Refactoring
+
+ PluralSight
+Design Patterns
+2014 - 2015
+PluralSight's design patterns library contains descriptions and C# examples of software design patterns that you can apply in your daily development. These patterns are time proven techniques for building long-lived, well factored software that are widely used in software development today.
+
+ ScrumAlliance
+CSM, Project Management
+2012 - 2012
+Scrum Master Certification Prep course
+
+ ERC Communications
+Executive Presentation Skills
+2012 – 2012
+
+ Microsoft
+Visual Studio 2010 ALM
+2012 - 2012
+Team Foundation Server Essentials - Certificate of Completion: http://goo.gl/xYF4D Testing Tools - Certificate of Completion: http://goo.gl/qjfrr
+
+ ai-class
+Artificial Intelligence
+2011 - 2011
+Completed advanced track of online class "Introduction to Artificial Intelligence" (www.ai-class.com) taught by Peter Norvig (director of Research at Google, author of AIAMA) and Sebastian Thrun (Professor at Stanford University, Google Fellow).
+ 
+Statement of Accomplishment: http://goo.gl/StizK
+
+ Abbott Learning and Development
+Management
+2010 - 2011
+Leadership Training
+Crisis Management
+Manager Basics
+Art of Effective Feedback
+Know the Business
+Performance Excellence
+Interviewing and Talent Acquisition Open Communication
+
+ Global Knowledge
+Microsoft Certified Technology Specialist: Managing Projects with Microsoft Office
+Project 2007, Project Management
+2010 - 2010
+Managing Projects with Microsoft Office Project 2007 Boot Camp
+
+ VMEdu Faculty
+PMP, Project Management
+2010 - 2010
+Project Management Professional(PMP)® Certification Exam preparation
+
+ VMEdu Faculty
+Six Sigma Green Belt Professional, Six Sigma
+2010 - 2010
+Six Sigma Green Belt Course
+
+ PluralSight
+F# Jumpstart
+2016 - 2016
+F# is a .NET (CLI) language. It combines functional and OO (Object Oriented) concepts to you let you solve complex problems with simple code.
+
+ Pluralsight
+Introduction to UML, UML
+2016 - 2016
+This course introduces the Unified Modeling Language (UML) and several of the diagrams that are most often used in software development.
+
+ Pluralsight
+Software Engineering Essentials, Computer Software Engineering
+2016 - 2016
+The IEEE defines Software Engineering as "the application of a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software." Software engineering is a discipline applied throughout the entire software lifecycle, spanning the early phases of system specifications all the way to maintenance after system deployment. So why use an engineering approach to software? Quite simply, because the alternative would be to use an ad-hoc or disordered approach. An engineering approach means predictability and quantifiable results through the application of theories, methodologies, frameworks, and tools. When applied efficiently, the result is high-quality software created in a cost-effective manner.
+
+ FigLeaf
+Sencha ExtJS 6.2
+2016 - 2016
+Back to coding UI with Sencha ExtJS JavaScript framework with a vengeance after completing the bootcamp.
+https://training.figleaf.com/courses/ExtJS6Class.cfm
+
+ PluralSight
+Angular
+2017 – 2017
+
+ PluralSight
+TypeScript
+2017 – 2017
+
+ PluralSight
+Machine Learning with Python, Machine Learning
+2017 - 2017
+Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment.
+
+ Microsoft
+Visual Studio ALM, ALM
+2017 – 2017
+
+ UX Design Edge
+UX Design Essentials Workshop, UX
+2018 - 2018
+Practical essentials:
+- Using an efficient, user-centered design process
+- Making a design intuitive, simple, and delightful
+- Designing tasks, task flows, and pages
+- Evaluating designs, giving and receiving effective feedback
+- Performing informal usability studies
+
+ PluralSight
+Building Web Applications with ASP.NET Core MVC
+2020 - 2020
+Build a complete application with ASP.NET Core 3.0 MVC using Visual Studio 2019.
+
+ Security Innovation
+Computer Software Engineering
+2020 - 2020
+AWA 102 - Secure Software Concepts
+DES 212 - Architecture Risk Analysis and Remediation
+ENG 211 - How to Create Application Security Design Requirements
+DES 311 - Creating Secure Application Architecture
+
+ Microsoft Learn
+Microsoft Azure Architect, Computer Software Engineering
+2020 - Present
+- Implement and Monitor Azure Infrastructure: Implementing Cloud Infrastructure Monitoring, Creatingand Configuring Storage Accounts, Implementing and Managing Virtual Machines, Implementing and Managing Virtual Networking, Creating Connectivity between Virtual Networks, Managing Azure Active
+Directory (Azure AD), Implementing Multi-Factor Authentication (MFA), Implementing and Managing Hybrid Identities
+- Implement Management and Security Solutions: Managing Workloads in Azure, Implementing Load
+Balancing and Networking Security, Implementing Azure Governance Solutions
+- Implement Solutions for Apps: Creating Web Apps Using PaaS and Serverless, Designing and
+Developing Apps for Containers, Implementing Authentication
+- Implement and Manage Data Platforms: Developing Solutions that Use Cosmos DB Storage
+Developing Solutions that Use a Relational Database
+
+ LinkedIn Learning
+Microsoft Azure, Computer Science
+2021 – Present
+
+ Capital One - Tech College
+Certified Secure Software Engineer - Associate, Cyber
+Jul 2022 - Jul 2022
+Designing and deploying secure and robust applications are the foundation of programming.
+
+SKILLS
+Strategy   •   Amazon Web Services (AWS)   •   Team Leadership   •   SDLC   •   Agile Methodologies   •   Scrum  
+•   SQL   •   Software Development   •   Microsoft SQL Server   •   Databases
+

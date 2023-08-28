@@ -1,0 +1,122 @@
+Daniel Silion
+McKinney, TX | (954) 424-1593 | theDanielSilion@gmail.com | LinkedIn
+
+       SENIOR SOFTWARE ENGINEERING MANAGER
+
+ScrumMaster, PMP, CUA, MCTS, AWS and Six Sigma Green Belt Professional Certified R&D, Sr Product, and Development Manager, and Software Architect with extensive experience in the management, analysis, development, and implementation of enterprise software solutions. Able to establish and sustain mutually beneficial cross-functional relationships with both internal and external project stakeholders. Hands-on Cloud and On-Premises Solution Architect, Full Stack Software Engineer, Digital Transformation, Machine Learning Engineer with over 20 years of experience in architecting, designing, and developing mobile, web, and desktop solutions. Focused on architecting, designing, and implementing highly scalable cloud-native SaaS solutions with microservice architecture and large-scale on-premises projects, ranging from Financial to Laboratory management systems.
+
+CORE COMPETENCIES
+
+Strategy | Leadership and Communication | SDLC | Agile Methodologies | Software Architecture and Design
+Full Stack Software Engineering | Cloud Computing | DevOps and CI/CD | Machine Learning | Databases
+Usability and User Experience | Healthcare Solutions | Regulatory Compliance
+
+TECHNICAL SKILLS
+
+AWS |.NET Core | ASP.NET Core | Entity Framework Core | SignalR | C# | Xamarin | React JS | Angular | TypeScript
+Microservices | Docker | Serverless computing | Continuous Integration/Continuous Delivery (CI/CD) | HL7 FHIR | REST API | gRPC GraphQL | Machine Learning |Python
+Design Patterns: Repository, Unit of Work, Domain Driven Design (DDD), Command Query Responsibility Segregation/Event Sourcing (CQRS/ES)
+Compliance standards: ISO standards, GxP, ICH, HIPAA, GDPR
+
+PROFESSIONAL EXPERIENCE
+
+Capital One | Sr. Manager – Software Engineering	05/2022 – Present 
+Manage software development teams within Developer Navigator enterprise solution - standardized and automated SDLC experience that optimizes simplicity, accelerates development, and drives quality.
+* Created a managed pipeline for both non-prod and prod to build and deploy assets to AWS with full orchestration of CI/CD leveraging GitHub Enterprise, Standardized branching strategy, Enterprise Jenkins, JPL, Bogiefile, Gears file, Artifactory, Docker, ECS, Fargate, TD file, 7PS, Distributed tracing (New Relic), Application logging (Splunk), Alerting (PagerDuty), Assett Registry.
+* This initiative resulted in significantly reduced deployment time, improved resource utilization, and enhanced code quality. Moreover, contributions to implementing advanced monitoring, distributed tracing, and application logging systems have bolstered reliability, reduced downtime, and led to increased system visibility. Overall, my leadership has driven improvements in efficiency, collaboration, compliance, and scalability, positioning the team for continued success in meeting business objectives.
+Skills/Tools: AWS services: ECS, EC2, S3, RDS, VPC, Route53, ELB, IAM, CloudFront, CloudFormation, CloudWatch, Lambda, SQS, SNS, EventBridge CI/CD Pipeline, Jenkins, Terraform, Git JAVA, Python SOA, REST API Agile, JIRA.
+
+Abbott	05/2021 – 04/2022
+Manager, Mobile Applications
+Managed the Digital Product Engineering organization and led the ideation and implementation of next-generation capabilities, vision, and roadmap for Abbott’s Neuromodulation Product Apps, Infrastructure, and Services, including Clinician Programmer and Patient Controller for the Neuromodulation devices for trial and permanent implant, remote programming feature, Deep Brain Stimulation (DBS) monopolar review, Spinal Cord Stimulation (SCS) multiple area BurstDR programming.
+* Research, development, and innovation for human implantable cognitive software interfacing with the brain and spinal cord via Bluetooth and WiFi connectivity; delivery of Class III software medical device(s) with FDA and worldwide regulatory approval.
+* One significant achievement was the integration of remote programming capabilities for Neuromodulation devices. This innovation empowered patients with greater control and convenience, allowing them to adjust device settings and therapies remotely. Patients gained the ability to manage their treatments from the comfort of their own homes, reducing the need for frequent visits to medical facilities and offering a higher degree of personalization.
+Skills/Tools: Azure Web App, Web API, Microsoft ASP.NET Signal R, Xamarin iOS SDK, C#, Net Analyzers, SonarQube, Appium, DOORS, JIRA, Visual Studio App Center, iOS.
+
+Abbott	12/2003 – 05/2021
+R&D Manager | Principal Software Architect, (12/2016-05/2021)
+Technical leadership, Software development process expertise, Quality advocate, Business domain expertise, Full project life cycle expertise (Architecture, Design, Development, Testing, Deployment), Good communicator and negotiator, Objective decision-making, Organizational politics navigator, Software/Infrastructure selection expert, Coach and mentor, Agile and Extreme Programming expert. Knowledge of developing products in a regulated environment, medical device industry.
+* Compliance standards: ISO 13485:2016, ISO13485:2003, ISO27001:2013, ISO9001:2008, ISO 9001:2015, ISO 14971:2019, ISO 15189, CLIA, CAP, GxP, ICH, HIPAA, GDPR, CFR 21 Part 11, 21 CFR Part 820, NATA, NeHTA.
+Medical Device Connectivity/Systems Interfacing standards and protocols:
+* HL7 FHIR, HL7, JSON, OpenAPI, SOAP, XML, CSV, Excel, custom formats
+* HL7 MLLP, TCP/IP, REST API, gRPC, Web services, SFTP, SMB, ASTM, AWS S3, GraphQL
+
+Software Engineering Manager – EyeNet, (05/2012-12/2016)
+Eye care web-based solution providing systems interoperability.
+* Skills: Software Architecture, ASP.NET Web API, MVC, Identity, N tier architecture, Autobacs IoC Container, Generic Repository, Unit of Work, AutoMapper, Semantic Logging Application Block, Entity Framework, Electronic Signature and Audit, Crystal Reports integration, Moq, VS Text Templating, VS Unit Testing, VS UI Testing, Extended ASP.NET data control attributes.
+
+Healthcare Informatics: Managed the development of the Abbott Healthcare Informatics Solution - software built and implemented as a product (COTS), with a large audience: Clinical Research: Biorepositories, Clinical Trials; Diagnostic Laboratories: Reference Labs. Design/manage the product lifecycle, and design/manage the development of new functionality. 
+* Transitioned the management of the Abbott Healthcare Informatics Solution SDLC to TFS, from the previous in-house solution.
+* Extended Team Foundation for automation (auto creates user story tasks; auto-assign tasks, bugs, and issues; auto close/reactivates parent work item, etc.), a C# solution that uses the Team Foundation server object model on the application tier.
+* Skills: Software Design, Project Management, Product Implementation Management, Product Strategy and Planning, Coordination of Core Product and Client Project implementations, Software Development Life Cycle, TFS, JScript .NET, C#, Team Foundation server object model, SSL, SQL Server Administration, T-SQL, Oracle Administration, PL/SQL
+
+Software Engineering Manager, (03/2010-04/2012)
+Managed the development of the SUNRISE product - software built and implemented as a product (COTS), with a large audience: Public Health Laboratories, and Centers of Disease Control. Designed/managed product lifecycle, and designed/managed the development of new functionality.
+* SUNRISE product (LIMS for the PHL sector), web-based laboratory information management system development in JScript .NET and SQL Server/Oracle RDBMS
+* Transitioned the SDLC from waterfall to Agile.
+
+Project Manager
+* Vermont Department of Health, StarLIMs V10, SQL Server 2005
+* CDC - NCEH (National Center for Environmental Health) & CDC - CCID (Coordinating Center for Infectious Diseases) Support
+
+Software Product Manager / Project Manager, (12/2003-03/2010)
+Starlims: Managed the SUNRISE product - software that is built and implemented as a product (COTS), having a large audience: Public Health Laboratories, Centers of Disease Control. Designed/managed product lifecycle, designed/managed product new functionality. Managed customer projects. SUNRISE product (LIMS for the PHL sector), web-based laboratory information management system development in JScript .NET and SQL Server/Oracle RDBMS
+* Vermont Department of Health, StarLIMs V10, SQL Server 2005
+* CDC - NCEH (National Center for Environmental Health) Support
+* CDC - CCID (Coordinating Center for Infectious Diseases) Support
+* Cott Beverages, StarLIMS V10, SQL Server | Iowa UHL, StarLIMS V9, Oracle 10g | Tennessee PHL, StarLIMS V9, SQL Server
+
+Senior Engineer – M&G, StarLIMS V10, SQL Server
+System Analyst / Software Engineer
+* Maine Department of Health and Human Services, StarLIMs V9, Oracle
+* California Department of Health Services, StarLIMs V9, SQL Server
+* Demo for Saskatchewan, StarLIMS V10, SQL Server | Burns & Roe Services Corp., StarLIMs V9, Oracle
+* EMD, StarLIMS V9, Sybase | Demo for Ben&Jerry's, SQL Server | ESRD, StarLIMS V9, Oracle
+* Internal project management system - OIMS, StarLIMS V9, SQL Server | NCID, StarLIMS V9, SQL Server
+Skills: Software Design, Project Management, Product Implementation Management, Product Strategy and
+Planning, Coordination of Core Product and Client Project implementations, Software Development Life Cycle, JScript .NET, SSL, SQL Server Administration, T-SQL, Oracle Administration, PL/SQL
+
+PRIOR EXPERIENCE
+
+Elsaco | Software Product Manager & Project Manager / Info Tip | Software Engineer
+Electro contact | Software Engineer / Transilvania Consult | Software Engineer / Network Administrator
+
+EDUCATION & CREDENTIALS
+
+Bachelor's Degree, Computer Science – Universitatea „Alexandru Ioan Cuza” din Ia?i
+ 
+AWS Certified Solutions Architect, Associate – Amazon Web Services (AWS) | Expires Aug 2025 | 8P4XJREKQFBE1PG6
+CUA (Certified Usability Analyst) – HFI (Human Factors International) | 2013-4475
+PMP – PMI | 1336843 / MCTS – Microsoft | 7717663 / Certified ScrumMaster – Scrum Alliance | 000200861
+Six Sigma Green Belt Professional – 6sigmastudy.com | 103245
+CAPA Initiator/Evaluator | CAPA Investigator / Microsoft Specialist: Programming in C# – Microsoft | F301-9134
+
+AWS | ScrumMaster | PMP | CUA | MCTS | AWS | Six Sigma Green Belt Professional Certified Software Architect 
+Product & Development Manager | Software Architecture – Carnegie Mellon University 
+Human Factors International – Certified Usability Analyst (CUA) training
+AWS Training & Certification, Architecting on AWS, Computer Science – Architecting on AWS
+
+Machine Learning A-Z™: AI, Python & R + ChatGPT, Machine Learning – Udemy Alumni
+Ultimate AWS Certified Solutions Architect Associate 2022, Computer Science – Udemy Alumni
+ASP.NET Core MVC, Computer Software Engineering | C#, Computer Programming – Microsoft
+Modern Software Architecture: Domain Models, CQRS, and Event Sourcing – Pluralsight
+Picturing Architecture: UML (The Good Bits) and More, UML – Pluralsight
+Identity, ASP.NET, Microsoft Virtual Academy Customizing ASP.NET Authentication with Identity – Microsoft
+LINQ, Practical LINQ | Design Patterns – Pluralsight
+CSM, Project Management | Scrum Master Certification Prep Course – Scrum Alliance | Visual Studio 2010 ALM – Microsoft
+Management | Leadership Training | Crisis Management | Manager Basics | Art of Effective Feedback | Know the Business
+Performance Excellence | Interviewing and Talent Acquisition Open Communication – Abbott Learning and Development
+Microsoft Certified Technology Specialist: Managing Projects with Microsoft Office | Project 2007, Project Management
+Managing Projects with Microsoft Office Project 2007 Boot Camp – Global Knowledge
+PMP, Project Management | Project Management Professional (PMP)® Certification Exam Preparation – VMEdu Faculty
+Six Sigma Green Belt Professional, Six Sigma | Six Sigma Green Belt Course – VMEdu Faculty
+F# Jumpstart | F# is a .NET (CLI) language | Software Engineering Essentials, Computer Software Engineering | Introduction to UML, UML | Angular | TypeScript | Machine Learning with Python, Machine Learning | Building Web Applications with ASP.NET Core MVC – Pluralsight / Sencha ExtJS 6.2 – Fig Leaf / Visual Studio ALM, ALM – Microsoft
+UX Design Essentials Workshop, UX – UX Design Edge / Computer Software Engineering – Security Innovation
+Microsoft Azure Architect, Computer Software Engineering – Microsoft Learn
+Microsoft Azure, Computer Science – LinkedIn Learning
+Certified Secure Software Engineer - Associate, Cyber – Capital One/Tech College
+
+Daniel Silion
+McKinney, TX | (954) 424-1593 | thedanielsilion@gmail.com | LinkedIn | Page 1
+
+
